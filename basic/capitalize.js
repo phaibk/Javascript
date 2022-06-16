@@ -11,4 +11,4 @@ function capitalize(str) {
   }
   return strArr.join(" ");
 }
-console.log(capitalize("abc"));
+console.log(capitalize("abc fhg"));
